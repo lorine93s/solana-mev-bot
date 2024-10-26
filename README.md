@@ -1,4 +1,4 @@
-# Solana MEV Bot
+# Solana Bot
 
 ## Overview
 
