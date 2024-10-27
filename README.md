@@ -1,30 +1,35 @@
-# Solana Bot
+🌟 Solana MEV Bot Optimized 🌟
+An optimized MEV bot template for the Solana blockchain, designed to maximize Miner Extractable Value through efficient transaction management and real-time mempool monitoring. Built with Rust for high performance.
+Project Logo <!-- Add your project logo here -->
+[License
+[Rust Version
+[Stars
 
-## Overview
+📚 Table of Contents
+Features
+Installation
+Usage
+Key Technologies
+Contributing
+License
+Contact
+🚀 Features
+Real-time Mempool Monitoring: Efficiently tracks pending transactions to identify profitable opportunities.
+Optimized Transaction Management: Implements strategies to maximize MEV extraction.
+Built with Rust: Ensures high performance and low latency.
+Easy to Customize: Template structure allows for easy modifications and enhancements.
 
-This project implements a Maximal Extractable Value (MEV) bot for the Solana blockchain. MEV refers to the maximum value that can be extracted from block production in excess of the standard block reward and gas fees by including, excluding, or reordering transactions within a block.
+📦 Installation
+Prerequisites
+Ensure you have the following installed:
+Rust
+Solana CLI
+Steps
+Clone the repository:
+bash
+git clone https://github.com/BitFancy/Solana-MEV-Bot-Optimized.git
+cd Solana-MEV-Bot-Optimized
 
-## Features
-
-- Real-time monitoring of Solana's Transaction Processing Unit (TPU)
-- Identification of profitable MEV opportunities
-- Automated execution of MEV strategies
-- Support for multiple DEXs on Solana
-- Customizable risk management and profit thresholds
-
-## Tech Stack
-
-- Rust: Primary programming language for performance and safety
-- Solana Web3.js: For interacting with the Solana blockchain
-- Serum DEX: Integration for decentralized exchange interactions
-- Anchor: For building and interacting with Solana programs
-
-## Prerequisites
-
-- Rust 1.55.0 or later
-- Solana CLI tools
-- Node.js and npm (for Web3.js)
-
-## Installation
-
-1. Clone the repository:
+Install dependencies:
+bash
+cargo build --release
