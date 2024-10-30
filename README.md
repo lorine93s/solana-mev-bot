@@ -10,8 +10,13 @@ Welcome to the **Solana MEV Bot**! This Rust-based bot is designed for executing
 ## Getting Started
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/solana-mev-bot.git
-   cd solana-mev-bot
+   git clone https://github.com/BitFancy/solana-mev-bot-optimized.git
+   cd solana-mev-bot-optimized
 
-   Install Dependencies:
+2. Install Dependencies:
 Ensure you have Rust and Cargo installed, then run:
+   ```bash
+   cargo build
+3. Run the bot
+   ```bash
+   cargo run
