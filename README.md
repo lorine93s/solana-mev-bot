@@ -75,4 +75,4 @@ The bot continuously monitors price feeds across different exchanges to identify
 
 Smart contracts manage the flash loan execution, ensuring that all transactions are completed successfully within a single block.
 
-##If you need assistant, please contact me <h3 align="center"><a href="https://t.me/bitfancy" target="_blank">here 👈🏻</a></h3>
+##If you need assistant, please contact me <h3 align="center"> Telegram : <a href="https://t.me/bitfancy" target="_blank">here 👈🏻</a><br>Discord : @bitbanana717</h3>
