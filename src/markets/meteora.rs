@@ -194,9 +194,6 @@ pub async fn simulate_route_meteora(printing_amt: bool, amount_in: u64, route: R
     let domain = env.simulator_url;
 
     let req_url = format!("{}meteora_quote?{}", domain, params);
-    // println!("req_url: {:?}", req_url);
-    //URL like: http://localhost:3000/meteora_quote?poolId=FNZsxG8QrUb5er8NR2fHuLo9nkQqKzxLf6p96R6fggZH&token0to1=true&amountIn=100
-    
     let res = make_request(req_url).await?;
     let res_text = res.text().await?;
     

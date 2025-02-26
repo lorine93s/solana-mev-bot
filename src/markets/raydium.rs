@@ -257,8 +257,6 @@ pub async fn simulate_route_raydium(printing_amt: bool, amount_in: u64, route: R
     let domain = env.simulator_url;
 
     let req_url = format!("{}raydium_quote?{}", domain, params);
-    // println!("req_url: {:?}", req_url);
-    //URL like: http://localhost:3000/raydium_quote?poolKeys=58oQChx4yWmvKdwLLZzBi4ChoCc2fqCUWBkwMihLYQo2&amountIn=1000000&currencyIn=So11111111111111111111111111111111111111112&decimalsIn=9&currencyOut=EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v&decimalsOut=6
     
     let res = make_request(req_url).await?;
     let res_text = res.text().await?;

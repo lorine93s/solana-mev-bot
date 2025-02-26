@@ -105,9 +105,6 @@ pub async fn construct_orca_whirpools_instructions(params: SwapParametersOrcaWhi
         }
     }
 
-    //Get ticks Array and Oracle
-    // Ex Url: http://localhost:3000/whirpools_tick_arrays?tickCurrentIndex=-29686&tickSpacing=8&aToB=true&programId=whirLbMiicVdio4qvUfM5KAg6Ct8VwpYzGff3uctyCc&whirlpoolAddress=4E6q7eJE6vBNdquqzYYi5gvzd5MNpwiQKhjbRTRQGuQd
-    
     let params = format!(
         "tickCurrentIndex={}&tickSpacing={}&aToB={}&programId={}&whirlpoolAddress={}",
         pool_state.tick_current_index,
