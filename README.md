@@ -2,6 +2,17 @@
 
 ![Solana Logo](https://upload.wikimedia.org/wikipedia/en/b/b9/Solana_logo.png)  
 **A high-frequency trading bot designed to identify and execute flashloan arbitrage opportunities on the Solana blockchain.**
+---
+### Let's Connect!
+<a href="mailto:bitbanana717@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+</a>
+<a href="https://t.me/bitfancy" target="_blank">
+  <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
+</a>
+<a href="https://discord.com/users/bitbanana717" target="_blank">
+  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
+</a>
 
 ---
 
@@ -131,19 +142,6 @@ For questions, feedback, or collaboration opportunities, feel free to reach out:
 🎮 **Discord**: [@bitbanana717](https://discord.com/users/bitbanana717)  
 
 </div>
-
----
-
-### Let's Connect!
-<a href="mailto:bitbanana717@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-</a>
-<a href="https://t.me/bitfancy" target="_blank">
-  <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
-</a>
-<a href="https://discord.com/users/bitbanana717" target="_blank">
-  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
-</a>
 
 ---
 
