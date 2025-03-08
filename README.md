@@ -1,4 +1,3 @@
-```markdown
 # Solana Flashloan Arbitrage Bot
 
 ![Solana Logo](https://upload.wikimedia.org/wikipedia/en/b/b9/Solana_logo.png)  
