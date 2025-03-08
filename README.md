@@ -152,10 +152,6 @@ This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) f
 
 ---
 
-```
-
----
-
 ### **Key Highlights of This README**
 1. **Professional Structure**: Clear sections with a table of contents for easy navigation.
 2. **Detailed Guide**: Step-by-step installation and usage instructions.
