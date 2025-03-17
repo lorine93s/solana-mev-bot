@@ -44,7 +44,6 @@ pub struct SwapRouteSimulation {
     pub amount_in: u64,
     pub estimated_amount_out: String,
     pub estimated_min_amount_out: String,
-
 }
 #[derive(Debug, Clone, Serialize, Deserialize)]
 pub struct SwapPathResult {
