@@ -195,6 +195,7 @@ pub async fn run_arbitrage_strategy(simulation_amount: u64, get_fresh_pools_bool
                 }
                 Err(value) => {
                     error!("Results not writed well: {:?}", value);
+                    error!("Results not writed well: {:?}", value);
                 }
             };
         }
