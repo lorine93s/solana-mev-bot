@@ -45,6 +45,7 @@ pub async fn simulate_path(simulation_amount: u64, path: SwapPath, markets: Vec<
                         println!("📌 NO SIMULATION Route 2 Id: {}", swap_sim[1].id_route);
                         swap_simulation_result.push(swap_sim[1].clone());
                         continue;
+                        
                     }
                 }
             }
