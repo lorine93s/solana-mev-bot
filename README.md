@@ -4,13 +4,13 @@
 **A high-frequency trading bot designed to identify and execute flashloan arbitrage opportunities on the Solana blockchain.**
 ---
 ### Let's Connect!
-<a href="mailto:bitbanana717@gmail.com" target="_blank">
+<a href="mailto:milosk920125@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
 </a>
-<a href="https://t.me/bitfancy" target="_blank">
+<a href="https://t.me/lorine93s" target="_blank">
   <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
 </a>
-<a href="https://discord.com/users/bitbanana717" target="_blank">
+<a href="https://discord.com/users/vlady0751" target="_blank">
   <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
 </a>
 
@@ -137,9 +137,9 @@ For questions, feedback, or collaboration opportunities, feel free to reach out:
 
 <div align="left">
 
-📧 **Email**: [bitbanana717@gmail.com](mailto:bitbanana717@gmail.com)  
-📱 **Telegram**: [@bitfancy](https://t.me/bitfancy)  
-🎮 **Discord**: [@bitbanana717](https://discord.com/users/bitbanana717)  
+📧 **Email**: [bitbanana717@gmail.com](mailto:milosk920125@gmail.com)  
+📱 **Telegram**: [@bitfancy](https://t.me/lorine93s)  
+🎮 **Discord**: [@bitbanana717](https://discord.com/users/vlady0751)  
 
 </div>
 
