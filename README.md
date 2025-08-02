@@ -137,9 +137,9 @@ For questions, feedback, or collaboration opportunities, feel free to reach out:
 
 <div align="left">
 
-📧 **Email**: [bitbanana717@gmail.com](mailto:milosk920125@gmail.com)  
-📱 **Telegram**: [@bitfancy](https://t.me/lorine93s)  
-🎮 **Discord**: [@bitbanana717](https://discord.com/users/vlady0751)  
+📧 **Email**: [milosk920125@gmail.com](mailto:milosk920125@gmail.com)  
+📱 **Telegram**: [@lorine93s](https://t.me/lorine93s)  
+🎮 **Discord**: [@vlady0751](https://discord.com/users/vlady0751)  
 
 </div>
 
